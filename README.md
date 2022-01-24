@@ -14,7 +14,7 @@ Simple application that generates images from the site [This Person Does Not Exi
 
 ## Test on your device
 
-To test the app, download the APK available in the project releases.
+To test the app, download the APK available in the [releases](https://github.com/jsericksk/This-Person-Does-Not-Exist/releases).
 
 ## Libraries used
 
